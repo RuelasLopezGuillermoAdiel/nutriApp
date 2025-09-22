@@ -13,7 +13,8 @@ el objetivo es hacer una aplicacion de nutricion y poder pasar aka bien aka
 3. Correo: 23308060610328@cetis61.edu.mx
 4. Especialidad: Programacion
 5. Institucion: CETis61
-6. [memin](https://github.com/user-attachments/assets/476e4fc8-a9c1-440f-b883-edb5090244e3)
+6. ![memin](https://github.com/user-attachments/assets/ec8b55f3-97cb-40ac-867a-b8d58dee04cb)
+
 
 
 
